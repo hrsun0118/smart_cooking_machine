@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "One Pot Tomato and Chickpea Stew",
+        "servings": 6,
+        "ingredients": "1 Tbsp (15 mL) vegetable oil \r\n 2 medium red onions, finely chopped \r\n 1 medium carrot, finely chopped \r\n 1 roasted red bell pepper, chopped \r\n ½ tsp salt \r\n 4 cloves garlic, thinly sliced \r\n 1 red hot chili, minced \r\n 2 tsp (6 g) ground cumin \r\n 2 tsp (5 g) smoked sweet paprika powder \r\n 1 tsp (2 g) ground coriander \r\n 3⅓ cups (800 mL) canned crushed tomatoes \r\n 2 cups (370 g) cooked chickpeas \r\n ½ cup (68 g) green olives, chopped \r\n 2 Tbsp (30 mL) tahini \r\n 2 tsp (10 mL) sodium-reduced soy sauce \r\n ¼ tsp ground black pepper \r\n 2 cups (60 g) fresh spinach, finely chopped \r\n Optional: garnish fresh basil,fresh cilantro & lemon slices \r\n ",
+        "directions":"1) Warm oil in a large pan on high heat. Once hot, add the onion, carrot, bell pepper, and salt. Cook for 5 minutes. \r\n 2) Then add the garlic and chili, and cook for 2 more minutes. \r\n 3) Add the cumin, paprika, and coriander, and cook for 1 minute more to toast the spices. \r\n 4) Add the crushed tomatoes, chickpeas, olives, tahini, soy sauce, and black pepper to the pan, stir, reduce the heat to medium, and partially cover with a lid. Allow to cook for 5 minutes for the flavours to meld. \r\n 5) At the last minute, add the spinach, and stir so that the spinach wilts, then remove from the heat. \r\n 6) Serve with desired garnish, and alongside some toasted bread or cooked rice. Enjoy! \r\n ",
+        "video": "https://www.youtube.com/watch?v=8KEtFdVpFZQ&t=330s",
+        "imageName":"one_pot_tomato_and_chickpea_stew"
+    },
+    {
+        "id": 1,
+        "name": "Ma Po Tofu",
+        "servings": 5,
+        "ingredients": "1 Tbsp (15 mL) vegetable oil \r\n 8 g salt \r\n 1 g MSG \r\n 3 g sugar \r\n 1 g dark soy sauce \r\n 15 g cornstach \r\n 15 g Sichuan picked ginger, minced \r\n 20 g Sichuan pickled chilli, finely chopped  \r\n 1 garlic sprout, minced \r\n 10 g dried chilli pepper \r\n 5 g sichuan green peppercorn \r\n 20 g chillie bean sauce (doubanjiang) \r\n 10 g fermented black bean(optional) \r\n 400 g firm tofu, chopped into 1.2 cm cubes \r\n 50 g beef(with a little fat), minced \r\n ",
+        "directions":"arm oil in a large pan on high heat. Once hot, add dried chilli pepper and sichuan green peppercorn. Stir fry in low heat for 10 seconds. When the chilli becomes light brown, pour our the ingredients on a chopping board. \r\n Make 'traditional knifed chillie': Crush the ingredients with a big knife and chop them into powder. \r\n Wash the pan. Add 200 g water and put it on medium low heat. Once the water is hot, add 3 g salt, tofu and cook for 1 min. Drained the tofu once it's cooked. \r\n Warm 20 g oil in a large pan on high heat. Once hot, add minced beef and turned the heat down to medium. Stir fry the beef until it's dried (30 seconds). \r\n Add Chillie bean sauce(doubanjiang), chopped sichuan pickled ginger and chillie and fermented black bean. On medium low heat, stir fry until red oil ocmes out(30 sec). \r\n Add 5 g traditional knifed chillie. Mixed it well in the pan. \r\n Add some water (30 g) and turn the pan on high heat to boil the sauce. \r\n Add 5 g salt, 1 g MSG, 3 g sugar, 1 g dark soy sauce. Mixed it well (10 sec). \r\n Add tofu. Turn the pan down to low heat and boil for 3 - 5 mintues. \r\n Mix 15 g of cornstarch with 40 g of water. First, add half of the mixture into the pan, cook 20 seconds. Then, add the remaining mixture into the pan, cook for 40 seconds. \r\n Take out the tofu and garnish with some 'traditional knifed chillied' and chopped garlic srpout. Enjoy!",
+        "video": "https://youtu.be/KpnLLhBVIjk",
+        "imageName": "ma_po_tofu"
+    },
+    {
+        "id": 2,
+        "name": "Sichuan Spicy Chicken",
+        "servings": 4,
+        "ingredients": "\r\n",
+        "directions":"\r\n",
+        "video": "https://youtu.be/NqHI1CJU-Rg",
+        "imageName": "sichuan_spicy_chicken"
+    },
+    {
+        "id": 3,
+        "name": "Bamboo Shoots with Braised Pork Ribs",
+        "servings": 5,
+        "ingredients": "\r\n",
+        "directions":"\r\n",
+        "video": "https://youtu.be/z7QpONofDaU",
+        "imageName": "bamboo_shoots_with_braised_pork_ribs"
+    }
+]
